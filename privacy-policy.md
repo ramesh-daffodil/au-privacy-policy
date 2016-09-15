@@ -12,7 +12,7 @@
 
 While providing the Services, Provider collects Personal Information about Individuals. This document describes how the Provider collects, stores, uses and discloses Personal Information.
 
-## Types of information collected
+## Types of information to be collected
 
 ### The types of Personal Information Provider collects.
 

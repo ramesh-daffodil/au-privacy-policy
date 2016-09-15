@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy v1
 
 `Purpose` This a template for creating privacy policies for Australian organisations.
 

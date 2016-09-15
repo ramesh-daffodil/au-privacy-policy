@@ -143,11 +143,7 @@ During the use of the Services, Individuals may disclose Personal Information to
 
 ## Changes to this policy
 
-Provider reserves the right to make changes to this privacy policy in the future, either to comply with changes in Australian privacy law, or to reflect changing business practices.
-
-Provider will give {{notice period}} notice to Individuals prior to changes in this policy taking effect. Notice will be given via the email details that Individuals give to Provider.
-
-If Individuals do not accept any of the changes to this policy, Individuals must cease using the Services.
+Provider reserves the right to make changes to this document in the future, either to comply with changes in Australian privacy law, or to reflect changing business practices.  It is the responsibility of Individuals to regularly check this document for such changes.
 
 ## Definitions
 

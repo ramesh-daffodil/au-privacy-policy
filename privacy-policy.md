@@ -39,7 +39,6 @@ Provider may collect Personal Information about Individuals using the following 
 {{information collection methods}}
 
 
-
 ## How information is held and secured
 
 ### How the Provider holds Personal Information.
@@ -106,7 +105,7 @@ When Individuals communicate a complaint to Provider, Provider will respond with
 
 Provider will make a reasonable effort to resolve the complaints or questions of Individuals, and where Provider is unable to do so, Provider will attempt to explain why it is unable to do so.
 
-If Indviduals consider a matter remains unresolved, Individuals may contact the Office of the Australian Information Commissioner (OAIC) (http://oaic.gov.au).
+If Individuals consider a matter remains unresolved, Individuals may contact the Office of the Australian Information Commissioner (OAIC) (http://oaic.gov.au).
 
 ### Privacy complaints and questions go to the Provider's privacy officer.
 
@@ -144,9 +143,11 @@ During the use of the Services, Individuals may disclose Personal Information to
 
 ## Changes to this policy
 
-The best way to make changes to this document is to notify people via email.
+Provider reserves the right to make changes to this privacy policy in the future, either to comply with changes in Australian privacy law, or to reflect changing business practices.
 
-https://github.com/CodePact/au-components/blob/master/agreement_changes.md
+Provider will give {{notice period}} notice to Individuals prior to changes in this policy taking effect. Notice will be given via the email details that Individuals give to Provider.
+
+If Individuals do not accept any of the changes to this policy, Individuals must cease using the Services.
 
 ## Definitions
 
